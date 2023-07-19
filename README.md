@@ -25,8 +25,10 @@ https://drive.google.com/file/d/1tqCWG3jxRPTP-CqoFE1ZbGRWrT9XS94L/view
 
 <h2>#4. 홈페이지 보러가기 </h2>
 <p>
-  https://judiking1.cafe24.com/hyundai/index.html
+  1. https://judiking1.github.io/hyundai/<br>
+  2. (1번 링크 안될 시) https://judiking1.cafe24.com/hyundai/index.html
 </p>
+
 ![image](https://github.com/judiking1/hyundai/assets/110409369/6cc4ed9b-cad5-49a8-86db-8443dd9b6237)
 
 ![image](https://github.com/judiking1/hyundai/assets/110409369/a2c6ba38-53c1-442d-b1b8-c848f14d813f)
